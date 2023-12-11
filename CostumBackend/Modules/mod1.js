@@ -17,3 +17,5 @@ module.exports ={
     avg : average,
     name :'shahid'
 }
+
+module.exports.name="shahid"
