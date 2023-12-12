@@ -1,0 +1,21 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "having great experience here",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "great"
+  ],
+  "author": "shahid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
