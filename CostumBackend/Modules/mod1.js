@@ -11,7 +11,7 @@ function average ( arr ){
     return sum/arr.length
 
 }
-
+// we can also export multiple by using object so then avg and both name are accessible
 module.exports ={
     
     avg : average,
